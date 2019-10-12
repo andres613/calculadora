@@ -1,2 +1,0 @@
-accionesEventosRecursos.Main$1
-accionesEventosRecursos.Main
