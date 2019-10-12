@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>JugandoConPalabras</name>
+=======
+            <name>AtlanticSoft-Calculadora</name>
+>>>>>>> f0dde579ea164992eb60835761a391cab6504ec9
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
