@@ -1,2 +1,2 @@
 # calculadora
-Calculadora echa en java
+Calculadora hecha en java
